@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="angular-local-storage" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/bower_components/angular-local-storage/angular-local-storage.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/bower_components/angular-local-storage/angular-local-storage.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
